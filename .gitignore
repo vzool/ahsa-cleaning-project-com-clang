@@ -1,0 +1,6 @@
+*.o
+.flavor
+.objs
+ahsa-cleaning-project-com-clang.so
+assets.h
+cert
